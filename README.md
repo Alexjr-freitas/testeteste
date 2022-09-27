@@ -47,3 +47,18 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+|**LINGUAGEM**|
+|:---------:|
+|JAVASCRIPT|
+|**FRAMEWORK**|       
+|REACT|
+|REACT NATIVE|
+|**BIBLIOTECAS**|
+|REACT NATIVE PAPER|
+|**IDES**|
+|EXPO DEV SNACKS|
+|**FERRAMENTAS**|
+|MICROSOFT TEAMS|
+|GITHUB|
+|TRELLO|
